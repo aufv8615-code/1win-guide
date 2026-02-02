@@ -60,7 +60,7 @@ export default function Page() {
       </div>
 
       <div className="grid" style={{ alignContent: "start" }}>
-        <CTA title="Перейти на сайт партнёра" />
+        <CTA title="Перейти на сайт 1win" />
         <div className="card">
           <h2 style={{ marginTop: 0 }}>Полезные страницы</h2>
           <ul>

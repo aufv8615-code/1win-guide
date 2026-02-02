@@ -17,6 +17,12 @@ export function Header() {
           ))}
         </nav>
       </div>
+      <div className="mobileCtaTop">
+        <a className="btn" href={site.affiliateUrl} rel="sponsored nofollow noopener" target="_blank">
+          Перейти на сайт 1win
+        </a>
+      </div>
+
       <div className="hr" />
     </header>
   );
