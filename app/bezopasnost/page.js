@@ -1,6 +1,5 @@
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CTA } from "@/components/CTA";
-import { site } from "@/lib/site";
 import { PageFaq } from "@/components/PageFaq";
 import { faqBezopasnost } from "@/lib/content";
 
